@@ -11,3 +11,5 @@ Select WinVice from the drop down: <img width="725" height="236" alt="image" src
 Open textadv.prg
 
 Hit build and run to run program in the emulator: <img width="451" height="394" alt="image" src="https://github.com/user-attachments/assets/3d67f38d-3312-45c3-83cf-0e8e8bf65f84" />
+
+<img width="362" height="365" alt="image" src="https://github.com/user-attachments/assets/6f170d45-a975-4259-8a42-a06d853331d8" />
