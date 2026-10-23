@@ -1,4 +1,4 @@
-#How to get started on windows
+# How to get started on windows
 
 Install C64 Studio: https://www.georg-rottensteiner.de/files/C64StudioRelease.zip
 
