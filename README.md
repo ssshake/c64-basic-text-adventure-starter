@@ -1,6 +1,6 @@
 # Commodore 64 Text Adventure Started Pack a.k.a Intro to BASIC example
 
-This is a small, bare bones BASIC program that attempts to teach some fundamentals quickly with a working example. This short textadv.bas file demonstrates how to:
+This is a small, bare bones BASIC program that attempts to teach some fundamentals quickly with a working example. This short [textadv.bas](https://github.com/ssshake/c64-basic-text-adventure-starter/blob/master/textadv.bas) file demonstrates how to:
 
 - print text to the screen
 - let the user type in some text
