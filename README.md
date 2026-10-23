@@ -4,12 +4,18 @@ Install C64 Studio: https://www.georg-rottensteiner.de/files/C64StudioRelease.zi
 
 Install VICE Emulator: https://sourceforge.net/projects/vice-emu/files/releases/binaries/windows/GTK3VICE-3.10-win64.zip/download
 
-When you open C64 Studio it will ask you to point to the path of the emulator which is <where you extracted the zip>\GTK3VICE-3.10-win64\bin
+When you open C64 Studio it will ask you to point to the path of the emulator which is `[where you extracted the zip]\GTK3VICE-3.10-win64\bin`
 
-Select WinVice from the drop down: <img width="725" height="236" alt="image" src="https://github.com/user-attachments/assets/39404651-8a6d-4ca3-9516-ac9f5e51b406" />
+Select WinVice from the drop down: 
 
-Open textadv.prg
+<img width="725" height="236" alt="image" src="https://github.com/user-attachments/assets/39404651-8a6d-4ca3-9516-ac9f5e51b406" />
 
-Hit build and run to run program in the emulator: <img width="451" height="394" alt="image" src="https://github.com/user-attachments/assets/3d67f38d-3312-45c3-83cf-0e8e8bf65f84" />
+Open textadv.bas
+
+Hit build and run to run program in the emulator: 
+
+<img width="451" height="394" alt="image" src="https://github.com/user-attachments/assets/3d67f38d-3312-45c3-83cf-0e8e8bf65f84" />
+
+
 
 <img width="362" height="365" alt="image" src="https://github.com/user-attachments/assets/6f170d45-a975-4259-8a42-a06d853331d8" />
